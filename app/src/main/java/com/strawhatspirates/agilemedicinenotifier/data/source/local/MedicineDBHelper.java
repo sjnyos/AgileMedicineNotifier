@@ -1,4 +1,4 @@
-package com.strawhatspirates.agilemedicinenotifier.addmedicine.data.source.local;
+package com.strawhatspirates.agilemedicinenotifier.data.source.local;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,9 +6,9 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.strawhatspirates.medicinetime.data.source.History;
-import com.strawhatspirates.medicinetime.data.source.MedicineAlarm;
-import com.strawhatspirates.medicinetime.data.source.Pills;
+import com.strawhatspirates.agilemedicinenotifier.data.source.History;
+import com.strawhatspirates.agilemedicinenotifier.data.source.MedicineAlarm;
+import com.strawhatspirates.agilemedicinenotifier.data.source.Pills;
 
 import java.net.URISyntaxException;
 import java.util.ArrayList;

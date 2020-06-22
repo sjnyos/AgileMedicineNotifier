@@ -1,4 +1,4 @@
-package com.strawhatspirates.agilemedicinenotifier.addmedicine.data.source;
+package com.strawhatspirates.agilemedicinenotifier.data.source;
 
 import java.util.List;
 
