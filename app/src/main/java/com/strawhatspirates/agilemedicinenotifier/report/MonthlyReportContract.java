@@ -1,8 +1,8 @@
 package com.strawhatspirates.agilemedicinenotifier.report;
 
-import com.strawhatspirates.medicinetime.BasePresenter;
-import com.strawhatspirates.medicinetime.BaseView;
-import com.strawhatspirates.medicinetime.data.source.History;
+import com.strawhatspirates.agilemedicinenotifier.BasePresenter;
+import com.strawhatspirates.agilemedicinenotifier.BaseView;
+import com.strawhatspirates.agilemedicinenotifier.data.source.History;
 
 import java.util.List;
 

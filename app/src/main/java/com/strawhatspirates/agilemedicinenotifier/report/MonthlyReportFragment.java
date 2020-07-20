@@ -18,9 +18,9 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.strawhatspirates.medicinetime.R;
-import com.strawhatspirates.medicinetime.data.source.History;
-import com.strawhatspirates.medicinetime.views.RobotoLightTextView;
+import com.strawhatspirates.agilemedicinenotifier.R;
+import com.strawhatspirates.agilemedicinenotifier.data.source.History;
+import com.strawhatspirates.agilemedicinenotifier.views.RobotoLightTextView;
 
 import java.util.ArrayList;
 import java.util.List;

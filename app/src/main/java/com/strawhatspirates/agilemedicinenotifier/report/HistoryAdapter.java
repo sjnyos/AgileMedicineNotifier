@@ -7,10 +7,10 @@ import android.widget.ImageView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.strawhatspirates.medicinetime.R;
-import com.strawhatspirates.medicinetime.data.source.History;
-import com.strawhatspirates.medicinetime.views.RobotoBoldTextView;
-import com.strawhatspirates.medicinetime.views.RobotoRegularTextView;
+import com.strawhatspirates.agilemedicinenotifier.R;
+import com.strawhatspirates.agilemedicinenotifier.data.source.History;
+import com.strawhatspirates.agilemedicinenotifier.views.RobotoBoldTextView;
+import com.strawhatspirates.agilemedicinenotifier.views.RobotoRegularTextView;
 
 import java.util.List;
 

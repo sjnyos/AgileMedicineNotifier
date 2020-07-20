@@ -2,7 +2,7 @@ package com.strawhatspirates.agilemedicinenotifier.utils;
 
 import android.graphics.Typeface;
 
-import com.strawhatspirates.medicinetime.MedicineApp;
+import com.strawhatspirates.agilemedicinenotifier.MedicineApp;
 
 import java.util.Hashtable;
 

@@ -2,9 +2,9 @@ package com.strawhatspirates.agilemedicinenotifier.report;
 
 import androidx.annotation.NonNull;
 
-import com.strawhatspirates.medicinetime.data.source.History;
-import com.strawhatspirates.medicinetime.data.source.MedicineDataSource;
-import com.strawhatspirates.medicinetime.data.source.MedicineRepository;
+import com.strawhatspirates.agilemedicinenotifier.data.source.History;
+import com.strawhatspirates.agilemedicinenotifier.data.source.MedicineDataSource;
+import com.strawhatspirates.agilemedicinenotifier.data.source.MedicineRepository;
 
 import java.util.ArrayList;
 import java.util.List;

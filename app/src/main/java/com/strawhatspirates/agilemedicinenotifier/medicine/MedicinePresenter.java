@@ -9,12 +9,12 @@ import android.util.Log;
 
 import androidx.annotation.NonNull;
 
-import com.strawhatspirates.medicinetime.addmedicine.AddMedicineActivity;
-import com.strawhatspirates.medicinetime.alarm.ReminderActivity;
-import com.strawhatspirates.medicinetime.alarm.ReminderFragment;
-import com.strawhatspirates.medicinetime.data.source.MedicineAlarm;
-import com.strawhatspirates.medicinetime.data.source.MedicineDataSource;
-import com.strawhatspirates.medicinetime.data.source.MedicineRepository;
+import com.strawhatspirates.agilemedicinenotifier.addmedicine.AddMedicineActivity;
+import com.strawhatspirates.agilemedicinenotifier.alarm.ReminderActivity;
+import com.strawhatspirates.agilemedicinenotifier.alarm.ReminderFragment;
+import com.strawhatspirates.agilemedicinenotifier.data.source.MedicineAlarm;
+import com.strawhatspirates.agilemedicinenotifier.data.source.MedicineDataSource;
+import com.strawhatspirates.agilemedicinenotifier.data.source.MedicineRepository;
 
 import java.util.Collections;
 import java.util.List;

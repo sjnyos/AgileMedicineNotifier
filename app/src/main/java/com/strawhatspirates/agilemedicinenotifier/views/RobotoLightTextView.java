@@ -6,7 +6,7 @@ import android.util.AttributeSet;
 
 import androidx.appcompat.widget.AppCompatTextView;
 
-import com.strawhatspirates.medicinetime.utils.FontUtil;
+import com.strawhatspirates.agilemedicinenotifier.utils.FontUtil;
 
 
 public class RobotoLightTextView extends AppCompatTextView {

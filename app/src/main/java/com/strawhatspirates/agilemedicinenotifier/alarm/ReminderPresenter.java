@@ -2,10 +2,10 @@ package com.strawhatspirates.agilemedicinenotifier.alarm;
 
 import androidx.annotation.NonNull;
 
-import com.strawhatspirates.medicinetime.data.source.History;
-import com.strawhatspirates.medicinetime.data.source.MedicineAlarm;
-import com.strawhatspirates.medicinetime.data.source.MedicineDataSource;
-import com.strawhatspirates.medicinetime.data.source.MedicineRepository;
+import com.strawhatspirates.agilemedicinenotifier.data.source.History;
+import com.strawhatspirates.agilemedicinenotifier.data.source.MedicineAlarm;
+import com.strawhatspirates.agilemedicinenotifier.data.source.MedicineDataSource;
+import com.strawhatspirates.agilemedicinenotifier.data.source.MedicineRepository;
 
 
 public class ReminderPresenter implements ReminderContract.Presenter {

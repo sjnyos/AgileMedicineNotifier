@@ -8,9 +8,9 @@ import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import com.strawhatspirates.medicinetime.Injection;
-import com.strawhatspirates.medicinetime.R;
-import com.strawhatspirates.medicinetime.utils.ActivityUtils;
+import com.strawhatspirates.agilemedicinenotifier.Injection;
+import com.strawhatspirates.agilemedicinenotifier.R;
+import com.strawhatspirates.agilemedicinenotifier.utils.ActivityUtils;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

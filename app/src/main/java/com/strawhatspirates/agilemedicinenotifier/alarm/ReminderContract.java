@@ -1,9 +1,9 @@
 package com.strawhatspirates.agilemedicinenotifier.alarm;
 
-import com.strawhatspirates.medicinetime.BasePresenter;
-import com.strawhatspirates.medicinetime.BaseView;
-import com.strawhatspirates.medicinetime.data.source.History;
-import com.strawhatspirates.medicinetime.data.source.MedicineAlarm;
+import com.strawhatspirates.agilemedicinenotifier.BasePresenter;
+import com.strawhatspirates.agilemedicinenotifier.BaseView;
+import com.strawhatspirates.agilemedicinenotifier.data.source.History;
+import com.strawhatspirates.agilemedicinenotifier.data.source.MedicineAlarm;
 
 
 public interface ReminderContract {

@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import androidx.appcompat.widget.AppCompatCheckBox;
 import androidx.core.content.ContextCompat;
 
-import com.strawhatspirates.medicinetime.R;
+import com.strawhatspirates.agilemedicinenotifier.R;
 
 public class DayViewCheckBox extends AppCompatCheckBox {
 
