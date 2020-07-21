@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
 
-    tools:context="com.strawhatspirates.agilemedicinenotifier.Credentials.SimpleLoginActivity">
+    tools:context="com.strawhatspirates.medicinetime.Credentials.SimpleLoginActivity">
 <LinearLayout
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
