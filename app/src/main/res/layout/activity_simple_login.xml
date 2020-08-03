@@ -37,6 +37,7 @@
         android:id="@+id/Login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="#ffffff"
         android:text="yes, I will Set Alaram to take my Medicine. (Click)"
         android:background="@color/colorPrimaryDark"/>
     </LinearLayout>
