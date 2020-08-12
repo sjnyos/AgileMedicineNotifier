@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AgileMedicineNotifiertesting.iml" filepath="$PROJECT_DIR$/.idea/modules/AgileMedicineNotifiertesting.iml" group="AgileMedicineNotifiertesting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AgileMedicineNotifiertesting-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AgileMedicineNotifiertesting-app.iml" group="AgileMedicineNotifiertesting/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Medicine Reminder Android App Project-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Medicine Reminder Android App Project-app.iml" group="Medicine Reminder Android App Project/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Medicine-Time.iml" filepath="$PROJECT_DIR$/.idea/Medicine-Time.iml" />
       <module fileurl="file://$PROJECT_DIR$/Medicine-Time-.iml" filepath="$PROJECT_DIR$/Medicine-Time-.iml" group="Medicine-Time-" />

@@ -20,7 +20,7 @@
         android:textSize="25sp"
         android:gravity="center"
         android:textColor="#ffffff"
-        android:text="Be Thankful for what you are new, and keep fighting for what you want to be tomorrow."/>
+        android:text="Be Thankful for what you are now, and keep fighting for what you want to be tomorrow."/>
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
